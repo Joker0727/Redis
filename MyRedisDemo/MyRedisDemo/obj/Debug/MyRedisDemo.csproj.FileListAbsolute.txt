@@ -1,0 +1,14 @@
+C:\Users\16107\Desktop\MyRedisDemo\MyRedisDemo\bin\Debug\MyRedisDemo.exe.config
+C:\Users\16107\Desktop\MyRedisDemo\MyRedisDemo\bin\Debug\MyRedisDemo.exe
+C:\Users\16107\Desktop\MyRedisDemo\MyRedisDemo\bin\Debug\MyRedisDemo.pdb
+C:\Users\16107\Desktop\MyRedisDemo\MyRedisDemo\obj\Debug\MyRedisDemo.Form1.resources
+C:\Users\16107\Desktop\MyRedisDemo\MyRedisDemo\obj\Debug\MyRedisDemo.Properties.Resources.resources
+C:\Users\16107\Desktop\MyRedisDemo\MyRedisDemo\obj\Debug\MyRedisDemo.csproj.GenerateResource.cache
+C:\Users\16107\Desktop\MyRedisDemo\MyRedisDemo\obj\Debug\MyRedisDemo.csproj.CoreCompileInputs.cache
+C:\Users\16107\Desktop\MyRedisDemo\MyRedisDemo\obj\Debug\MyRedisDemo.csproj.CopyComplete
+C:\Users\16107\Desktop\MyRedisDemo\MyRedisDemo\obj\Debug\MyRedisDemo.exe
+C:\Users\16107\Desktop\MyRedisDemo\MyRedisDemo\obj\Debug\MyRedisDemo.pdb
+C:\Users\16107\Desktop\MyRedisDemo\MyRedisDemo\bin\Debug\Newtonsoft.Json.dll
+C:\Users\16107\Desktop\MyRedisDemo\MyRedisDemo\bin\Debug\Newtonsoft.Json.xml
+C:\Users\16107\Desktop\MyRedisDemo\MyRedisDemo\bin\Debug\StackExchange.Redis.dll
+C:\Users\16107\Desktop\MyRedisDemo\MyRedisDemo\bin\Debug\StackExchange.Redis.xml
